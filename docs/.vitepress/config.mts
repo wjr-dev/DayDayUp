@@ -42,7 +42,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://wjr-dev.github.io/DayDayUp/' }
+      { icon: 'github', link: 'https://github.com/wjr-dev/DayDayUp' }
     ]
   },
 })
