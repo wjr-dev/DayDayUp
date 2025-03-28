@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "DayDayUp/",
   title: "DayDayUp",
   description: "天天向上",
   themeConfig: {
