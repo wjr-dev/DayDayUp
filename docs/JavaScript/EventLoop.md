@@ -1,8 +1,8 @@
-# Markdown Extension Examples
+# 事件循环
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+JavaScript 的事件循环（Event Loop）是其实现异步编程的核心机制，也是理解 JS 执行顺序的关键。
 
-## Syntax Highlighting
+## 基本概念
 
 VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
 
@@ -32,7 +32,7 @@ export default {
 }
 ```
 
-## Custom Containers
+## 宏任务和微任务
 
 **Input**
 

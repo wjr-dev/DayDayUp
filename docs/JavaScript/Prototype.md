@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Runtime API Examples
+# 原型与原型链
 
 This page demonstrates usage of some of the runtime APIs provided by VitePress.
 
