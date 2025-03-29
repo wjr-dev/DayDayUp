@@ -38,6 +38,13 @@ export default defineConfig({
           { text: '状态管理', link: '/React/EventLoop' },
           { text: '事务机制', link: '/React/Prototype' }
         ]
+      },
+      {
+        text: '性能优化',
+        collapsed: false,
+        items: [
+          { text: '性能指标', link: '/性能优化/性能指标' }
+        ]
       }
     ],
 
