@@ -24,5 +24,19 @@ features:
   - title: React
     details: 虚拟DOM、状态管理、事务机制、性能优化
     link: /React/EventLoop
+  - title: 工程化
+    details: vite、roolup、webpack、CI/CD
+  - title: 性能优化
+    details: 加载优化、运行时优化
+  - title: 设计模式
+    details: 观察者模式、发布订阅模式...
+  - title: Http
+    details: 缓存、TCP\UDP
+  - title: 安全
+    details: xss、csrf、sql注入
+   - title: 前端微服务
+    details: qiankun、无界、样式隔离方案
+  - title: Node.js
+    details: 事件循环
 ---
 
