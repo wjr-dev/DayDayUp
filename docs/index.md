@@ -38,5 +38,9 @@ features:
     details: qiankun、无界、样式隔离方案
   - title: Node.js
     details: 事件循环
+  - title: 数据结构与算法
+    details: 队列、链表、二叉树
+  - title: 场景题
+    details: 大文件分片上传、虚拟列表
 ---
 
