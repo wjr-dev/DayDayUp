@@ -34,7 +34,7 @@ features:
     details: 缓存、TCP\UDP
   - title: 安全
     details: xss、csrf、sql注入
-   - title: 前端微服务
+  - title: 前端微服务
     details: qiankun、无界、样式隔离方案
   - title: Node.js
     details: 事件循环
