@@ -17,7 +17,7 @@ hero:
 features:
   - title: JavaScript
     details: 原型、事件循环、ES6
-    link: /JavaScript/EventLoop
+    link: /JavaScript/事件循环
   - title: Vue
     details: 模版编译、Diff算法、响应式原理
     link: /Vue/EventLoop

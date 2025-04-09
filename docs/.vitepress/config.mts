@@ -19,15 +19,15 @@ export default defineConfig({
         text: 'JavaScript',
         collapsed: false,
         items: [
-          { text: '事件循环', link: '/JavaScript/EventLoop' },
-          { text: '原型与原型链', link: '/JavaScript/Prototype' }
+          { text: '事件循环', link: '/JavaScript/事件循环' },
+          { text: '原型和原型链', link: '/JavaScript/原型和原型链' }
         ]
       },
       {
         text: 'Vue',
         collapsed: false,
         items: [
-          { text: '响应式原理', link: '/Vue/EventLoop' },
+          { text: '响应式原理', link: '/Vue/响应式原理' },
           { text: '模版编译原理', link: '/Vue/Prototype' }
         ]
       },
