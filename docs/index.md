@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 马上开始
-      link: /JavaScript/EventLoop
+      link: /JavaScript/事件循环
     - theme: alt
       text: GitHub
       link: https://github.com/wjr-dev/DayDayUp
