@@ -20,7 +20,7 @@ features:
     link: /JavaScript/事件循环
   - title: Vue
     details: 模版编译、Diff算法、响应式原理
-    link: /Vue/EventLoop
+    link: /Vue/响应式原理
   - title: React
     details: 虚拟DOM、状态管理、事务机制、性能优化
     link: /React/EventLoop
